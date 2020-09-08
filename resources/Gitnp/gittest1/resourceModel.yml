@@ -111,7 +111,7 @@ configuration:
     type: String
     validate:
       isRegex: "lol"
-    immutable: true
+    immutable: false
   foo2:
     type: Int
     validate:
