@@ -164,7 +164,7 @@ configuration:
     type: String
     immutable: true
     validate:
-      contains: "lol"
+      contains: "ght"
   foo31:
     type: String
     immutable: true
