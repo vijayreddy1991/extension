@@ -189,7 +189,7 @@ configuration:
     type: String
     immutable: true
     validate:
-      notContains: "lol"
+      notContains: "test"
   foo36:
     type: String
     immutable: true
