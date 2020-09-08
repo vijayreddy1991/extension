@@ -169,7 +169,7 @@ configuration:
     type: String
     immutable: true
     validate:
-      equals: "lol"
+      equals: "123"
   foo32:
     type: String
     immutable: true
