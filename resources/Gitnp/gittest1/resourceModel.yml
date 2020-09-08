@@ -111,7 +111,7 @@ configuration:
     type: String
     validate:
       isRegex: "lol"
-    immutable: false
+    immutable: vbnbnvhj
   foo2:
     type: Int
     validate:
